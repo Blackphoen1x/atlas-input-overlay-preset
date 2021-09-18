@@ -1,0 +1,171 @@
+{
+    "default_height": 128,
+    "default_width": 157,
+    "elements": [
+        {
+            "code": 30,
+            "id": "a",
+            "mapping": [
+                641,
+                1,
+                157,
+                128
+            ],
+            "pos": [
+                0,
+                0
+            ],
+            "type": 1,
+            "z_level": 1
+        },
+        {
+            "code": 31,
+            "id": "s",
+            "mapping": [
+                801,
+                1,
+                157,
+                128
+            ],
+            "pos": [
+                137,
+                0
+            ],
+            "type": 1,
+            "z_level": "1"
+        },
+        {
+            "code": 32,
+            "id": "d",
+            "mapping": [
+                961,
+                1,
+                157,
+                128
+            ],
+            "pos": [
+                274,
+                0
+            ],
+            "type": 1,
+            "z_level": "1"
+        },
+        {
+            "code": 33,
+            "id": "f",
+            "mapping": [
+                321,
+                263,
+                157,
+                128
+            ],
+            "pos": [
+                411,
+                0
+            ],
+            "type": 1,
+            "z_level": "1"
+        },
+        {
+            "type": 1,
+            "pos": [
+                274,
+                133
+            ],
+            "id": "up",
+            "z_level": "0",
+            "mapping": [
+                640,
+                263,
+                157,
+                128
+            ],
+            "code": 61000
+        },
+        {
+            "type": 1,
+            "pos": [
+                274,
+                266
+            ],
+            "id": "down",
+            "z_level": "0",
+            "mapping": [
+                801,
+                262,
+                157,
+                128
+            ],
+            "code": 61008
+        },
+        {
+            "type": 1,
+            "pos": [
+                137,
+                266
+            ],
+            "id": "left",
+            "z_level": "0",
+            "mapping": [
+                961,
+                262,
+                157,
+                128
+            ],
+            "code": 61003
+        },
+        {
+            "type": 1,
+            "pos": [
+                411,
+                266
+            ],
+            "id": "right",
+            "z_level": "0",
+            "mapping": [
+                1124,
+                263,
+                157,
+                128
+            ],
+            "code": 61005
+        },
+        {
+            "type": 1,
+            "pos": [
+                137,
+                133
+            ],
+            "id": "alt",
+            "z_level": "0",
+            "mapping": [
+                481,
+                263,
+                158,
+                128
+            ],
+            "code": 56
+        },
+        {
+            "type": 3,
+            "pos": [
+                0,
+                266
+            ],
+            "id": "leftClick",
+            "z_level": 1,
+            "mapping": [
+                1122,
+                1,
+                157,
+                128
+            ],
+            "code": 1
+        }
+    ],
+    "flags": 0,
+    "overlay_height": 491,
+    "overlay_width": 594,
+    "space_h": -20,
+    "space_v": 5
+}
